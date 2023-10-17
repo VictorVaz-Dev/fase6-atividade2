@@ -1,0 +1,35 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+header h3, h5{
+    color: black;
+}
+
+.logo {
+    width: 10rem;
+    align-items: center;
+}
+.cor__fundo {
+    background-color: #FFC108;
+}
+.meu__header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.titulos {
+    color: #2973D3;
+}
+.fa-paper-plane {
+    margin: 0.5rem;
+}
+.pointer {
+    cursor: pointer;
+}
+.meu__link {
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+

@@ -1,0 +1,52 @@
+header{
+    background-color: #FFC108;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+footer{
+    background-color: #FFC108;
+}
+
+.container {
+    text-align: center;
+}
+
+.logo {
+    max-width: 100px; /* Ajuste a largura conforme necessário */
+}
+
+.titulos {
+    color: #2973D3;
+    font-weight: bold;
+}
+
+.btn-outline-light {
+    color: white;
+    border-color: white;
+}
+
+/* Estilos para os campos do formulário */
+.form-group {
+    margin-bottom: 20px;
+}
+
+/* Estilos para o botão "Gravar Alterações" */
+#gravar {
+    background-color: #FFC108;
+    color: black;
+}
+
+/* Estilos para o botão "Alterar seus dados" */
+#alterar {
+    background-color: #FFC108;
+    color: black;
+}
